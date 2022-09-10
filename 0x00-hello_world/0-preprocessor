@@ -1,2 +1,7 @@
 #!/bin/bash
+int main()
+{  printf("let go)
+ return (0);
+}
+
 gcc -E $CFILE
