@@ -6,7 +6,7 @@
  * followed ba y a new lline to standard error
  *
  * Return : Always 1
- * \
+ */
 
 int main(void)
 {
